@@ -1,0 +1,23 @@
+html{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+h1 {
+    text-align: center;
+    margin-top:25 px;
+    margin-bottom: 15 px;
+    font-size:40px;
+    letter-spacing: 5px;
+}
+
+
+.image-container{
+    margin: 10px 30%;
+}
+
+.image-container img{
+    width: 100%;
+    margin-top: 5px;
+}
