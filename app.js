@@ -16,11 +16,7 @@ function imageLoaded(){
         count=30;
       //  console.log('ready=',ready);
     }
-
 }
-
-
-
 
 function displayPhotos(photos){
     imagesloaded = 0;
